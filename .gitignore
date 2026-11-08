@@ -1,0 +1,15 @@
+# 비밀 키
+.streamlit/secrets.toml
+.env
+
+# 시험 자료(저작권) · 개인 데이터는 올리지 않음
+*.pdf
+data/
+*.xlsx
+*.csv
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
