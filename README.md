@@ -2,9 +2,9 @@
 
 | 항목 | 내용 |
 |---|---|
-| 학번 | 20XXXXXXXX |
-| 이름 | 홍길동 |
-| 배포 URL | https://xxxxx.streamlit.app |
+| 학번 | 202235030 |
+| 이름 | 김한결 |
+| 배포 URL | https://academy-grader-bluvxccabmptf23phqtba9.streamlit.app/ |
 
 ## 프로젝트 소개
 영어 학원 원장님이 **문제지 PDF, OMR 인식 결과, 정답지 PDF**를 올리면 자동으로 채점하고, 결과를 엑셀로 추출하며,
